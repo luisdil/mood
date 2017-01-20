@@ -9,5 +9,7 @@
 import UIKit
 
 class moodandtime: NSObject {
+    var name: String?
+    var time: String?
 
 }
